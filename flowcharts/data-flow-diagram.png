@@ -1,0 +1,11 @@
+# Flowchart – Airbnb Booking Process
+
+This flowchart illustrates the backend process of booking a property:
+
+1. Guest selects a property and dates.
+2. System checks availability.
+3. Guest confirms booking.
+4. Payment is processed.
+5. Booking confirmation sent to guest and host.
+6. Status is updated in database.
+
