@@ -1,0 +1,15 @@
+# Data Flow Diagram (DFD) – Airbnb Clone
+
+This diagram visualizes the flow of data between users, processes, and the system. Main components include:
+
+- Users (Guest/Host)
+- Property Service
+- Booking Service
+- Payment Gateway
+- Review Module
+- Database
+
+## Levels:
+- **DFD Level 0**: Overview of the entire system.
+- **DFD Level 1**: Breaks down major processes (e.g., Book Property, Process Payment).
+
